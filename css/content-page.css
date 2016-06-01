@@ -1,4 +1,4 @@
-body { padding-top: 100px; }
+body { padding-top: 100px; background-color: #EEC258;}
 .header {
 	z-index: 999;
 	position: fixed;
@@ -51,7 +51,7 @@ body { padding-top: 100px; }
 .headline {
 	position: relative;
 	width: 100%;
-	padding: 5px 0px 30px 0px;
+	padding: 5px 20px 30px 20px;
 	background-color: #EEC258;
 	text-align: center;
 	color: #FC6D44;
@@ -65,6 +65,10 @@ body { padding-top: 100px; }
 	letter-spacing: 0.03125em;
 }
 
+.em2 {
+	font-size: 2em;
+}
+
 .hl2 {
 	font-size: 0.9em;
 	font-weight: 400;
@@ -76,6 +80,7 @@ body { padding-top: 100px; }
 	float: left;
 	width: 100%;
 	padding: 7% 17.5%;
+	background-color: white;
 }
 
 
