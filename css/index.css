@@ -19,14 +19,17 @@
 .title {
 	font-weight: 900;
 	font-size: 4em;
+	margin-bottom: 10px;
 }
 
 .subTitle {
 	font-weight: 400;
 	font-size: 1.5em;
+	margin-bottom: 10px;
 }
 
 .navBar {
+	float: left;
 	margin-top: 10px;
 	margin-left: -10px;
 }
