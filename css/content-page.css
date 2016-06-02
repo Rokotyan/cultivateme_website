@@ -105,6 +105,7 @@ body { padding-top: 100px; background-color: #EEC258;}
 
 .width35 {width: 35%;}
 .width65 {width: 65%;}
+.width100 {width: 100%;}
 
 .column ul {
 	margin: 0;
@@ -139,7 +140,7 @@ h2 {
 h3 {
 	margin: 0 0 5px 0;
 	font-size: 1.2em;
-	font-weight: 600; 
+	font-weight: 600;
 
 }
 
